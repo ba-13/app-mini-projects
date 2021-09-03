@@ -1,6 +1,6 @@
 # Qt_Projects
 
-Learning Qt with small projects
+Learning Qt with small projects.
 
 Repository currently contains:
 
