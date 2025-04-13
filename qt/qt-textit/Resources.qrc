@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>C:/Users/bansh/Pictures/icons/Copy.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/Cut.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/DeleteSticky.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/New.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/Open.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/Paste.bmp</file>
+        <file>C:/Users/bansh/Pictures/icons/Save.bmp</file>
+    </qresource>
+</RCC>
